@@ -3,6 +3,7 @@ Simple program with UI for exporting video to png and encoding png images to vid
 
 <img width="503" alt="app" src="https://user-images.githubusercontent.com/104313051/164985734-851253cb-c93c-47d4-a642-cc3597fb0636.png">
 
+
 Comes with 2 default preset commands that can be fully modifiable. 
 Commands need to include [InputImgLocation] and [OutputLocation]
 
