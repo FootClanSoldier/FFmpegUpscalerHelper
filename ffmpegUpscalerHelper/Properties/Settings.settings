@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FFUpscalerHelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dimension_png" Type="System.String" Scope="User">
+      <Value Profile="(Default)">720x540</Value>
+    </Setting>
+    <Setting Name="ffmpeg_location" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NotSet</Value>
+    </Setting>
+    <Setting Name="open_folder" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="selectedPreset" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DefaultFfmpegPreset" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">-r 24000/1001 -f image2 -start_number 1 -i [InputImgLocation]\%06d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -profile:v high -level:v 4.1 -refs 4 -bf 3 -vf colormatrix=bt601:bt709 -color_primaries bt709 -color_trc bt709 -colorspace bt709 [OutputLocation]</Value>
+    </Setting>
+    <Setting Name="presets" Type="System.String" Scope="User">
+      <Value Profile="(Default)">x264: 1080p 24fps
+-r 24000/1001 -f image2 -start_number 1 -i [InputImgLocation]\%06d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -profile:v high -level:v 4.1 -refs 4 -bf 3 -vf colormatrix=bt601:bt709 -color_primaries bt709 -color_trc bt709 -colorspace bt709 [OutputLocation]
+x264: 1080p 25fps
+-r 25 -f image2 -start_number 1 -i [InputImgLocation]\%06d.png -c:v libx264 -preset veryslow -crf 18 -pix_fmt yuv420p -profile:v high -level:v 4.1 -refs 4 -bf 3 -vf colormatrix=bt601:bt709 -color_primaries bt709 -color_trc bt709 -colorspace bt709 [OutputLocation]</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
