@@ -13,7 +13,7 @@ Encoding presets can be fully modified and comes with some decent default settin
 
 ## Getting started
 **Dependencies**
-- .NET Framework 4.7.2 is required which should be pre-installed.
+- .NET Framework 4.7.2
 - FFmpeg.exe
 
 **Required Setting** 
