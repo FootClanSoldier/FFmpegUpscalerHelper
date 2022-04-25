@@ -6,7 +6,7 @@ Simple program with UI for exporting video to png and encoding png images to vid
 
 Instead of opening CMD yourself and navigating to your ffmpeg location and then enter the command this program does all that for you. Saves a lot of time when working with multiple videos. It does however require some knowledge of FFmpeg commands for you to be able to customize your command for your needs. 
 
-Encoding presets can be fully modified and comes with some decent default settings for x264 encodes. I plan to add more features in the future, this was just something I rushed togheter quickly in 2 days and has been extremly useful for me ever since.
+Encoding presets can be fully modified and comes with some decent default settings for x264 encodes. I plan to add more features in the future, this was just something I rushed together quickly in 2 days and has been extremly useful for me ever since.
 
 
 <img width="503" alt="Untitled" src="https://user-images.githubusercontent.com/104313051/164991558-3401484d-4e83-49d3-baef-a2c9b038bca0.png">
