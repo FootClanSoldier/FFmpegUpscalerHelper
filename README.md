@@ -30,6 +30,7 @@ Encoding presets can be fully modified and comes with some decent default settin
 3. Switch to the tab "Encode Png frames to video"
 4. Select the Png Frames location, either by pasting in the directory location or by pressing the button next to the textbox
 5. Select output folder location, either by pasting in the directory location or by pressing the button next to the textbox
-6. Press the "Start" button, a cmd window should then pop up with ffmpeg encoding your video
-7. Let the video finish encoding and you can then close the cmd window.
+6. Optional: Edit the filename of the video you're about to encode. Default name is OutputVideo.mkv
+7. Press the "Start" button, a cmd window should then pop up with ffmpeg encoding your video
+8. Let the video finish encoding and you can then close the cmd window.
 <img width="498" alt="Untitled4" src="https://user-images.githubusercontent.com/104313051/165133785-7d8e0036-89ab-481e-ac4b-371e286a76b0.png">
