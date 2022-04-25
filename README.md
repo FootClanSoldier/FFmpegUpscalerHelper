@@ -20,6 +20,6 @@ Encoding presets can be fully modified and comes with some decent default settin
 - First thing you need to do to get this program to work is going into Settings and selecting the path to your ffmpeg.exe file, and then click the save settings button. 
 <img width="503" alt="Untitled2" src="https://user-images.githubusercontent.com/104313051/165087676-4e7d7037-8bdb-408b-9065-d71ab0b0f372.png">
 
-**Optional Settings** 
+**Other Settings** 
 - You can edit the default png dimension to be used when exporting video to png
 - You can enable or disable if the target folder your exporting/encoding to should be opened when the command has been started
