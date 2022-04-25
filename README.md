@@ -17,7 +17,7 @@ Encoding presets can be fully modified and comes with some decent default settin
 - FFmpeg.exe
 
 **Required Setting** 
-- First thing you need to do to get this program to work is going into Settings and selecting the path to your ffmpeg.exe file. 
+- First thing you need to do to get this program to work is going into Settings and selecting the path to your ffmpeg.exe file, and then click the save settings button. 
 <img width="503" alt="Untitled2" src="https://user-images.githubusercontent.com/104313051/165087676-4e7d7037-8bdb-408b-9065-d71ab0b0f372.png">
 
 **Optional Settings** 
