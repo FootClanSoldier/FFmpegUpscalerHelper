@@ -43,3 +43,6 @@ Encoding presets can be fully modified and comes with some decent default settin
 7. Press the "Start" button, a cmd window should then pop up with ffmpeg encoding your video
 8. Let the cmd window video finish encoding, and you can then close the cmd window.
 <img width="498" alt="Untitled4" src="https://user-images.githubusercontent.com/104313051/165133785-7d8e0036-89ab-481e-ac4b-371e286a76b0.png">
+
+**Known Issues**
+- I haven't created a certificate for the program so windows may give a warning when starting it for the first time, this will be fixed later on. It's 100% safe code.
