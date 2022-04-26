@@ -24,7 +24,15 @@ Encoding presets can be fully modified and comes with some decent default settin
 - You can edit the default png dimension to be used when exporting video to png
 - You can enable or disable if the target folder your exporting/encoding to should be opened when the command has been started
 
-**How to encode PNG's to Video**
+**How to export Video to Png**
+1. Go to the tab "Video to png"
+2. Select the video location, either by pasting in the location or by pressing the button next to the textbox
+3. Select output folder location, either by pasting in the directory location or by pressing the button next to the textbox
+4. Optional: Change the dimension of the png files to be exported
+5. Press the "Start" button
+<img width="498" alt="Untitled" src="https://user-images.githubusercontent.com/104313051/165247279-047146a7-746b-41ba-ac1d-770738fc65aa.png">
+
+**How to encode PNG to Video**
 1. Go to the tab "Encoding Presets"
 2. Select a preset from the dropdown box with the title "Presets" to the right
 3. Switch to the tab "Encode Png frames to video"
