@@ -13,8 +13,8 @@ Encoding presets can be fully modified and comes with some decent default settin
 
 ## Getting started
 **Dependencies**
-- .NET Framework 4.7.2
-- FFmpeg.exe
+- [.NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472/)
+- [FFmpeg.exe](https://www.gyan.dev/ffmpeg/builds/)
 
 **Required Setting** 
 - First thing you need to do to get this program to work is going into Settings and selecting the path to your ffmpeg.exe file, and then click the save settings button. 
