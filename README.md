@@ -29,7 +29,8 @@ Encoding presets can be fully modified and comes with some decent default settin
 2. Select the video location, either by pasting in the location or by pressing the button next to the textbox
 3. Select output folder location, either by pasting in the directory location or by pressing the button next to the textbox
 4. Optional: Change the dimension of the png files to be exported
-5. Press the "Start" button
+5. Press the "Start" button, a cmd window should then pop up with ffmpeg extracting your video's frames to png
+6. Let the cmd window extract all frames from the video, and you can then close the cmd window.
 <img width="498" alt="Untitled" src="https://user-images.githubusercontent.com/104313051/165247279-047146a7-746b-41ba-ac1d-770738fc65aa.png">
 
 **How to encode PNG to Video**
@@ -40,5 +41,5 @@ Encoding presets can be fully modified and comes with some decent default settin
 5. Select output folder location, either by pasting in the directory location or by pressing the button next to the textbox
 6. Optional: Edit the filename of the video you're about to encode. Default name is OutputVideo.mkv
 7. Press the "Start" button, a cmd window should then pop up with ffmpeg encoding your video
-8. Let the video finish encoding and you can then close the cmd window.
+8. Let the cmd window video finish encoding, and you can then close the cmd window.
 <img width="498" alt="Untitled4" src="https://user-images.githubusercontent.com/104313051/165133785-7d8e0036-89ab-481e-ac4b-371e286a76b0.png">
