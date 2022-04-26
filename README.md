@@ -2,7 +2,7 @@
 <img width="503" alt="app" src="https://user-images.githubusercontent.com/104313051/164985734-851253cb-c93c-47d4-a642-cc3597fb0636.png">
 
 ## About
-A simple program with UI for exporting video to png and encoding png images to video using FFmpeg, for the purpose of upscaling. This program does not upscale your video, it's a tool to be used to save time for your upscaling process. 
+A simple program with an UI for exporting video to png and encoding png images to video using FFmpeg, for the purpose of upscaling. This program does not upscale your video, it's a tool to be used to save time for your upscaling process. 
 
 Instead of opening CMD yourself and navigating to your ffmpeg location and then enter the command this program does all that for you. Saves a lot of time when working with multiple videos. It does however require some knowledge of FFmpeg commands for you to be able to customize your encoding command for your needs. 
 
